@@ -1,5 +1,5 @@
 # VX0N
-  **Competitive Cybersecurity & CTF Team | #1 India | Top 8 Global**
+  **Competitive Cybersecurity & CTF Team | #1 India | Top 8 Global on HTB**
 </div>
 
 ---
